@@ -1,0 +1,17 @@
+pandas==1.3.4
+xlrd
+selenium==3.141.0
+requests
+pyxlsb
+msoffcrypto-tool
+openpyxl
+xlsxwriter
+pyotp
+environs
+pillow
+loguru
+pyperclip
+urllib3<1.25
+urllib3==1.25.11
+web3
+openai
