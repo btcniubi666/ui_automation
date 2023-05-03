@@ -1,4 +1,4 @@
-### UI自动化项目
+### AdsPower UI自动化项目
 selenium webdriver链接超时解方案
 安装一下依赖
 pip install "urllib3<2"
